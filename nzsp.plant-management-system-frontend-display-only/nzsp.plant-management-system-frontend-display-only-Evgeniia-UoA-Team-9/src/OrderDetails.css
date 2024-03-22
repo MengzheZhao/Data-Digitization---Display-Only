@@ -1,0 +1,182 @@
+.pdf-button1 {
+  position: fixed;
+  top: 47%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button1:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+.pdf-button2 {
+  position: fixed;
+  top: 47%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button2:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+.pdf-button3 {
+  position: fixed;
+  top: 66%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button3:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+.pdf-button4 {
+  position: fixed;
+  top: 66%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button4:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+.pdf-button5 {
+  position: fixed;
+  top: 84%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button5:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+
+.pdf-button6 {
+  position: fixed;
+  top: 84%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+  font-size: 1.2vw;
+  padding: 1vw;
+  max-width: 30vw;
+  min-width: 30vw;
+  white-space: normal;
+  word-wrap: break-word;
+  background-color: #eeffee;
+  color: #00ACED;
+  font-family: 'Bariol';
+  font-weight: bold;
+  text-decoration: underline;
+  line-height: 1.2;
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.pdf-button6:hover {
+  color: #fff;
+  background-color: #a5a5a5;
+}
+
+.line {
+  position: absolute;
+  top: 55%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  width: 0.2%;
+  height: 80%;
+  background-color: #696868; /* Grey color */
+}
+
+
+
+

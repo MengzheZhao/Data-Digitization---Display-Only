@@ -1,0 +1,40 @@
+.fetch-button-1 {
+    width: 13vw;
+    height: 10vh;
+    position: fixed;
+    border-radius: 10% 10% 10% 10%;
+    top: 25vh;
+    left: 56.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    text-align: center;
+    background-color: #c8fcc6;
+    color: #002677;
+    font-family: 'Brush Up';
+    transform: translate(-50%, -50%);
+    font-size: 1.5vw;
+    cursor: pointer;
+  }
+  
+
+  .fetch-button-2 {
+    width: 13vw;
+    height: 10vh;
+    position: fixed;
+    border-radius: 10% 10% 10% 10%;
+    top: 25vh;
+    left: 91.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh;
+    text-align: center;
+    background-color: #c8fcc6;
+    color: #002677;
+    font-family: 'Brush Up';
+    transform: translate(-50%, -50%);
+    font-size: 1.5vw;
+    cursor: pointer;
+  }

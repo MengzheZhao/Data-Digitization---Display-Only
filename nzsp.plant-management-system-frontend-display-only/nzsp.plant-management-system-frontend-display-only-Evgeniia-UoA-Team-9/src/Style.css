@@ -1,0 +1,70 @@
+.page-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+
+.logo {
+  height: auto;
+  max-height: 200%;
+  width: auto;
+  max-width: 200%;
+  position: absolute;
+  left: 1%; /* Adjust the left position as needed */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    max-width: 20%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo {
+    max-width: 15%;
+  }
+}
+
+
+.header {
+  background-color: #ffffff;
+  height: 10vh;
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.header-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header-text-content {
+  color: #005EB8;
+  font-size: 4vw; /* Adjust the font size based on viewport width */
+  font-family: 'Brush Up', sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  word-wrap: break-word;
+}
+
+
+
+.btn {
+  /* Default button styles */
+  /* ... other styles ... */
+
+  cursor: pointer; /* Set the cursor to pointer */
+}

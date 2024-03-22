@@ -1,0 +1,102 @@
+.order-details.line1-name {
+    position: absolute;
+    top: 16%;
+    left: 32%;
+    transform: translateY(-50%);
+    font-size: 2vw;
+    font-family: 'Brush Up';
+    color: #002677;
+    font-weight: 400;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }
+  
+  .pdf-viewer {
+    position: absolute;
+    top: 35%;
+    left: 32%;
+    width: 67%;
+    height: 60%;
+  }
+  
+  .pdf-menu-text3 {
+    position: absolute;
+    top: 33%;
+    left: 32%;
+    transform: translateY(-50%);
+    font-size: 1.7vw;
+    font-family: 'Brush Up';
+    color: #005EB8;
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }
+  
+  .pdf-menu-text3 {
+    cursor: pointer;
+  }
+
+  .pdf-production-order1 {
+    cursor: pointer;
+  }
+
+  .pdf-pack-spec11 {
+    cursor: pointer;
+  }
+
+  .pdf-button5-text {
+    position: absolute;
+    top: 22%;
+    left: 32%;
+    transform: translateY(-50%);
+    font-size: 1.3vw;
+    font-family: 'Bariol';
+    color: #005EB8;
+    font-weight: 400;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }
+
+
+  .pdf-production-order1 {
+    position: absolute;
+    top: 33%;
+    left: 47%;
+    transform: translateY(-50%);
+    font-size: 1.7vw;
+    font-family: 'Brush Up';
+    color: #005EB8;
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }
+  
+  .pdf-pack-spec11 {
+    position: absolute;
+    top: 33%;
+    left: 67%;
+    transform: translateY(-50%);
+    font-size: 1.7vw;
+    font-family: 'Brush Up';
+    color: #005EB8;
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }
+  
+
+  .path-shop-sku-text {
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    transform: translateY(-50%);
+    font-size: 1vw;
+    font-family: 'Bariol';
+    color: #033297;
+    font-weight: 400;
+    line-height: 2.5vw;
+    word-wrap: break-word;
+  }

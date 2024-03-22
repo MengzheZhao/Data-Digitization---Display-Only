@@ -1,0 +1,56 @@
+.navigation-bar {
+  width: 25%;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  top: 11vh;
+  z-index: 1;
+}
+
+.navigation-bar::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -10px;
+  height: 100%;
+  width: 1px;
+  background-color: #999;
+  filter: blur(5px);
+}
+
+.nav-item {
+  color: #005EB8;
+  font-size: 2vw;
+  font-family: 'Brush Up';
+  font-weight: 500;
+  line-height: 1.2;
+  word-wrap: break-word;
+  cursor: pointer;
+  margin-bottom: 2vh;
+  margin-top: 1em;
+  position: relative;
+  z-index: 1;
+}
+
+.nav-item.clicked {
+  color: white;
+}
+
+.nav-item.clicked::before {
+  content: '';
+  position: absolute;
+  top: -10%;
+  left: -10%;
+  right: -10%;
+  bottom: -10%;
+  background-image: url("./images/holder.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}

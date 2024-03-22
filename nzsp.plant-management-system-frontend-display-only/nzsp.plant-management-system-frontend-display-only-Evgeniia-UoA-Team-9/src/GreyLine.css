@@ -1,0 +1,11 @@
+.line-vertical {
+    position: fixed;
+    top: 55%; /* Adjust the vertical position as desired */
+    left: 65%;
+    transform: translate(-50%, -50%);
+    width: 0.2%; /* Adjust the width as desired */
+    height: 80vh; /* Adjust the height as desired */
+    background-color: grey;
+    z-index: 2;
+  }
+  
